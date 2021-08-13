@@ -28,7 +28,7 @@ import time
 # Arrays
 commented = []
 blacklist = []
-insults3 = ['^^fucktard', '^^moron', '^^idiot', '^^complete ^^faggot']
+insults3 = ['^^fucktard', '^^moron', '^^idiot', '^^complete ^^douche']
 
 # Login to Reddit
 r = praw.Reddit('Insult Bot by u/_Heckraiser2_ v 1.2.')
